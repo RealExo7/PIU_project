@@ -1,0 +1,14 @@
+C:\Users\artio\source\repos\PIU_project\PIU_project\bin\Debug\PIU_project.exe.config
+C:\Users\artio\source\repos\PIU_project\PIU_project\bin\Debug\PIU_project.exe
+C:\Users\artio\source\repos\PIU_project\PIU_project\bin\Debug\PIU_project.pdb
+C:\Users\artio\source\repos\PIU_project\PIU_project\bin\Debug\Administrare.dll
+C:\Users\artio\source\repos\PIU_project\PIU_project\bin\Debug\Administrare_cheltuieli.dll
+C:\Users\artio\source\repos\PIU_project\PIU_project\bin\Debug\Cheltuieli.dll
+C:\Users\artio\source\repos\PIU_project\PIU_project\bin\Debug\Administrare.pdb
+C:\Users\artio\source\repos\PIU_project\PIU_project\bin\Debug\Administrare_cheltuieli.pdb
+C:\Users\artio\source\repos\PIU_project\PIU_project\bin\Debug\Cheltuieli.pdb
+C:\Users\artio\source\repos\PIU_project\PIU_project\obj\Debug\PIU_project.csproj.AssemblyReference.cache
+C:\Users\artio\source\repos\PIU_project\PIU_project\obj\Debug\PIU_project.csproj.CoreCompileInputs.cache
+C:\Users\artio\source\repos\PIU_project\PIU_project\obj\Debug\PIU_project.csproj.CopyComplete
+C:\Users\artio\source\repos\PIU_project\PIU_project\obj\Debug\PIU_project.exe
+C:\Users\artio\source\repos\PIU_project\PIU_project\obj\Debug\PIU_project.pdb

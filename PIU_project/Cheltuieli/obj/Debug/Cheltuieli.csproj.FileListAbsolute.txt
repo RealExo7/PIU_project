@@ -1,0 +1,6 @@
+C:\Users\artio\source\repos\PIU_project\Cheltuieli\bin\Debug\Cheltuieli.dll
+C:\Users\artio\source\repos\PIU_project\Cheltuieli\bin\Debug\Cheltuieli.pdb
+C:\Users\artio\source\repos\PIU_project\Cheltuieli\obj\Debug\Cheltuieli.csproj.AssemblyReference.cache
+C:\Users\artio\source\repos\PIU_project\Cheltuieli\obj\Debug\Cheltuieli.csproj.CoreCompileInputs.cache
+C:\Users\artio\source\repos\PIU_project\Cheltuieli\obj\Debug\Cheltuieli.dll
+C:\Users\artio\source\repos\PIU_project\Cheltuieli\obj\Debug\Cheltuieli.pdb

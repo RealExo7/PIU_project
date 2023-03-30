@@ -1,0 +1,9 @@
+C:\Users\artio\source\repos\PIU_project\Administrare_cheltuieli\bin\Debug\Administrare_cheltuieli.dll
+C:\Users\artio\source\repos\PIU_project\Administrare_cheltuieli\bin\Debug\Administrare_cheltuieli.pdb
+C:\Users\artio\source\repos\PIU_project\Administrare_cheltuieli\bin\Debug\Cheltuieli.dll
+C:\Users\artio\source\repos\PIU_project\Administrare_cheltuieli\bin\Debug\Cheltuieli.pdb
+C:\Users\artio\source\repos\PIU_project\Administrare_cheltuieli\obj\Debug\Administrare_cheltuieli.csproj.AssemblyReference.cache
+C:\Users\artio\source\repos\PIU_project\Administrare_cheltuieli\obj\Debug\Administrare_cheltuieli.csproj.CoreCompileInputs.cache
+C:\Users\artio\source\repos\PIU_project\Administrare_cheltuieli\obj\Debug\Administrare_cheltuieli.csproj.CopyComplete
+C:\Users\artio\source\repos\PIU_project\Administrare_cheltuieli\obj\Debug\Administrare_cheltuieli.dll
+C:\Users\artio\source\repos\PIU_project\Administrare_cheltuieli\obj\Debug\Administrare_cheltuieli.pdb
